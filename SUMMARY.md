@@ -1,4 +1,4 @@
 # Summary
 
-* My Awesome API
+* [My Awesome API](my_awesome_api.md)
 
