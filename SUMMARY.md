@@ -1,5 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
+## Overview
+
 * [My Awesome API](README.md)
+
+## Methods
+
+* [Defining Methods](methods.md)
 
